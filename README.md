@@ -36,3 +36,6 @@ Score Recieved - 100/100
   
 # Images
 
+![Main Page of Game](https://github.com/VishaalPKumar/Pac-Virus/blob/master/Screenshots/image1.png)
+![How To Play/About Page of Game](https://github.com/VishaalPKumar/Pac-Virus/blob/master/Screenshots/image2.png)
+![Gameplay Image](https://github.com/VishaalPKumar/Pac-Virus/blob/master/Screenshots/image3.png)
